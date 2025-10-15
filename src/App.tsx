@@ -1,3 +1,4 @@
+import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 
 const App = () => {
@@ -7,6 +8,7 @@ const App = () => {
 				Hello Macbook Pro!
 			</h1>
 			<Navbar />
+			<Hero />
 		</>
 	);
 };

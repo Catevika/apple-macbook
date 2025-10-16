@@ -3,6 +3,8 @@ export type MacbookStore = {
 	setColor: (color: string) => void;
 	scale: number;
 	setScale: (scale: number) => void;
+	texture: string;
+	setTexture: (texture: string) => void;
 	reset: () => void;
 };
 

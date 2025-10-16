@@ -30,3 +30,11 @@ export type ControlsConfig = {
 		friction: number;
 	};
 };
+
+export type ImagePosition = {
+	id: string;
+	left?: number;
+	right?: number;
+	bottom?: number;
+	transform?: string;
+};

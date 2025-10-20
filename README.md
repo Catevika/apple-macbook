@@ -1,6 +1,6 @@
 # apple-macbook
 
-![apple-macbook](public\Apple-MacBookPro.jpg)
+![apple-macbook](public/Apple-MacBookPro.jpg)
 
 ## Overview
 

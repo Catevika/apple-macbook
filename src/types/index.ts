@@ -40,3 +40,8 @@ export type ImagePosition = {
 	bottom?: number;
 	transform?: string;
 };
+
+export type FooterLinkProps = {
+	label: string;
+	link: string;
+};
